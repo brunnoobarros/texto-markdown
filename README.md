@@ -11,6 +11,8 @@ Repositório para lição 4
 
 [Texto sobre amor](https://Textosobreamor.com)
 
+![](figs/grafico.jpg)
+
 Está é uma lista de frutas:
 - Maçã
 -  Pera
